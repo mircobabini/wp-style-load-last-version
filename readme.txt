@@ -1,4 +1,4 @@
-=== W3 Total Cache Debug ===
+=== Style.css Load Last Version ===
 Contributors: Mirco Babini
 Donate Link: http://github.com/mirkolofio
 Tags: style, cache, version, w3 total cache, debug, development, performance, child
