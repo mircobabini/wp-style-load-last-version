@@ -12,7 +12,7 @@ Load the Last Version of style.css everytime, whenever and ever. No side effects
 
 == Description ==
 
-This loads the Last Version of the **style.css** everytime, append the mtime as a query var.
+This loads the Last Version of the **style.css** everytime, appending the mtime as a query var.
 
 Developed by [Mirco Babini](http://www.mircobabini.com/), **Wordpress Consultant, Web Developer and Data Lover**.
 
