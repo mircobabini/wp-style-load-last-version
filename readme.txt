@@ -1,5 +1,5 @@
 === Style.css Load Last Version ===
-Contributors: mirkolofio
+Contributors: mirkolofio <mirkolofio@gmail.com>
 Donate Link: http://mircobabini.com/donate/
 Tags: style, cache, version, w3 total cache, debug, development, performance, child
 Requires at least: 2.8
